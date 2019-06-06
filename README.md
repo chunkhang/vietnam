@@ -13,22 +13,22 @@ Dec 18 (Wed) - Dec 24 (Tue)
 ### Hanoi
 > Capital
 
-- TODO
+- ...
 
 ### Sapa
 > Snow
 
-- TODO
+- ...
 
 ### Ha Long Bay
 > Sea
 
-- TODO
+- ...
 
 ## Finance
 > RM 1800 - RM 2000 per person
 
-- [Splitwise][5]
+[Splitwise][5]
 
 ## Transportation
 
@@ -43,20 +43,20 @@ Dec 18 (Wed) - Dec 24 (Tue)
 ### Hanoi - Sapa
 > Train
 
-- TODO
+- ...
 
 ### Sapa - Hanoi
 > Bus
 
-- TODO
+- ...
 
 ### Hanoi - Ha Long Bay
 
-- TODO
+- ...
 
 ### Ha Long Bay - Hanoi
 
-- TODO
+- ...
 
 ### Hanoi - Kuala Lumpur
 > Airplane
@@ -70,52 +70,68 @@ Dec 18 (Wed) - Dec 24 (Tue)
 
 ### Hanoi
 
-- TODO
+- ...
 
 ### Sapa
 
-- TODO
+- ...
 
 ### Ha Long Bay
 
-- TODO
+- ...
 
 ## Itinerary
 
 ### Day 1
 > Dec 18 (Wed)
 
-- TODO
+| Time  | Event           | Note                             |
+|-------|-----------------|----------------------------------|
+| 09:00 | Arrive at KLIA2 | Take Grab from Sunway University |
+| ...   | ...             | ...                              |
 
 ### Day 2
 > Dec 19 (Thu)
 
-- TODO
+| Time | Event | Note |
+|------|-------|------|
+| ...  | ...   | ...  |
 
 ### Day 3
 > Dec 20 (Fri)
 
-- TODO
+| Time | Event | Note |
+|------|-------|------|
+| ...  | ...   | ...  |
+
 
 ### Day 4
 > Dec 21 (Sat)
 
-- TODO
+| Time | Event | Note |
+|------|-------|------|
+| ...  | ...   | ...  |
 
 ### Day 5
 > Dec 22 (Sun)
 
-- TODO
+| Time | Event | Note |
+|------|-------|------|
+| ...  | ...   | ...  |
 
 ### Day 6
 > Dec 23 (Mon)
 
-- TODO
+| Time | Event | Note |
+|------|-------|------|
+| ...  | ...   | ...  |
 
 ### Day 7
 > Dec 24 (Tue)
 
-- TODO
+| Time | Event | Note |
+|------|-------|------|
+| ...  | ...   | ...  |
 
 [1]: ./hanoi.jpg
 [2]: https://wikitravel.org/en/Hanoi
