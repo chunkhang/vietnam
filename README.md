@@ -16,6 +16,24 @@ December 18 (Wed) - December 24 (Tue)
 
 - [Splitwise][5]
 
+## Transportation
+
+### Kuala Lumpur - Hanoi
+
+- KLIA2 - Noi Bai International Airport
+- December 18 (Wed)
+- 12:05 - 14:20
+- AK 512
+- Checked baggage 25kg
+
+### Hanoi - Kuala Lumpur
+
+- Noi Bai International Airport -  KLIA2
+- December 24 (Tue)
+- 09:00 - 13:15
+- AK 517
+- Checked baggage 25kg
+
 [1]: ./hanoi.jpg
 [2]: https://wikitravel.org/en/Hanoi
 [3]: https://wikitravel.org/en/Sapa
