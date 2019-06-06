@@ -1,6 +1,6 @@
 # Vietnam
 
-![Hanoi City][1]
+![Hanoi City](./hanoi.jpg)
 
 ## Date
 > 7 days and 6 nights
@@ -28,7 +28,7 @@ Dec 18 (Wed) - Dec 24 (Tue)
 ## Finance
 > RM 1800 - RM 2000 per person
 
-[Splitwise][5]
+[Splitwise](https://secure.splitwise.com/#/groups/13052688)
 
 ## Transportation
 
@@ -132,9 +132,3 @@ Dec 18 (Wed) - Dec 24 (Tue)
 | Time | Event | Note |
 |------|-------|------|
 | ...  | ...   | ...  |
-
-[1]: ./hanoi.jpg
-[2]: https://wikitravel.org/en/Hanoi
-[3]: https://wikitravel.org/en/Sapa
-[4]: https://wikitravel.org/en/Ha_Long_Bay
-[5]: https://secure.splitwise.com/#/groups/13052688
