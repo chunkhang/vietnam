@@ -43,20 +43,36 @@ Dec 18 (Wed) - Dec 24 (Tue)
 ### Hanoi - Sapa
 > Train
 
-- ...
+- Ha Noi Railway Station
+- Dec 18 (Wed), 21:35 - 05:30 or 22:00 - 06:05
+- Price Range (Per Pax): RM 148/156 
+- Present at station 1 hour before departure
+- Arrive at Lao Cai
+- Might need to take taxi to Sapa
+- For more, refer to: [12go][1]
+
 
 ### Sapa - Hanoi
 > Bus
 
-- ...
+- Dec 20 (Fri), 13:15 - 19:15
+- Price (Per Pax): RM 49
+- For more, refer to: [12go][2]
 
 ### Hanoi - Ha Long Bay
+> Bus/Taxis
 
-- ...
+- Dec 21 (Sat), 07:30 - 11:20
+- Price (Per Pax): RM 60/97
+- For more, refer to: [12go][3]
 
 ### Ha Long Bay - Hanoi
+> Taxi
 
-- ...
+- Dec 23 (Mon), 11:20 - 15:10
+- Price (Per Pax): RM 96
+- For more, refer to: [12go][4]
+
 
 ### Hanoi - Kuala Lumpur
 > Airplane
@@ -132,3 +148,8 @@ Dec 18 (Wed) - Dec 24 (Tue)
 | Time | Event | Note |
 |------|-------|------|
 | ...  | ...   | ...  |
+
+[1]: https://12go.asia/en/train/hanoi/sapa?date=2019-12-18&people=4
+[2]: https://12go.asia/en/travel/sapa/hanoi?date=2019-12-20&people=4
+[3]: https://12go.asia/en/travel/hanoi/halong-bay?date=2019-12-21&people=4
+[4]: https://12go.asia/en/travel/halong-bay/hanoi?date=2019-12-23&people=4
