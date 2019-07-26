@@ -7,24 +7,6 @@
 
 Dec 18 (Wed) - Dec 24 (Tue)
 
-## Places
-> Northern Vietnam
-
-### Hanoi
-> Capital
-
-- ...
-
-### Sapa
-> Snow
-
-- ...
-
-### Ha Long Bay
-> Sea
-
-- ...
-
 ## Finance
 > RM 1800 - RM 2000 per person
 
@@ -81,20 +63,6 @@ Dec 18 (Wed) - Dec 24 (Tue)
 - Dec 24 (Tue), 09:00 - 13:15
 - AK 517
 - Checked baggage 25 kg
-
-## Accommodation
-
-### Hanoi
-
-- ...
-
-### Sapa
-
-- ...
-
-### Ha Long Bay
-
-- ...
 
 ## Itinerary
 
