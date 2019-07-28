@@ -68,15 +68,17 @@
 ### Day 3
 > Dec 20 (Fri)
 
-| Time  | Event                   | Note |
-|-------|-------------------------|------|
-| 08:00 | Breakfast at Sapa       |      |
-| 09:00 | Chill around Sapa       |      |
-| 12:00 | Check out from homestay |      |
-| 12:30 | Lunch at Sapa           |      |
-| 15:30 | Depart for Hanoi        | Bus  |
-| 21:30 | Arrive at Hanoi         |      |
-| 22:00 | Check into hotel        |      |
+| Time  | Event                        | Note                                                   |
+|-------|------------------------------|--------------------------------------------------------|
+| 08:00 | Breakfast at Sapa            |                                                        |
+| 09:00 | Chill around Sapa            |                                                        |
+| 12:00 | Check out from homestay      |                                                        |
+| 12:30 | Lunch at Sapa                |                                                        |
+| 14:00 | Depart for Sapa bus station  | Taxi                                                   |
+| 15:00 | Arrive at Sapa bus station   | [Sapa Express Bus Station (Sapa)][sapa-sapa-express]   |
+| 15:30 | Depart for Hanoi bus station | Bus                                                    |
+| 21:30 | Arrive at Hanoi bus station  | [Sapa Express Bus Station (Hanoi)][hanoi-sapa-express] |
+| 22:00 | Check into hotel             |                                                        |
 
 ### Day 4
 > Dec 21 (Sat)
@@ -103,9 +105,9 @@
 ### Day 6
 > Dec 23 (Mon)
 
-| Time | Event              | Note |
-|------|--------------------|------|
-|      | Chill around Hanoi |      |
+| Time  | Event              | Note |
+|-------|--------------------|------|
+| 08:00 | Chill around Hanoi |      |
 
 ### Day 7
 > Dec 24 (Tue)
@@ -125,5 +127,7 @@
 [splitwise]: https://secure.splitwise.com/#/groups/13052688
 [airport-to-hanoi]: http://excursionvietnam.com/get-to-hanoi-old-quarter-from-hanoi-airport
 [heaven-gate]: https://thefirsttravels.com/heaven-gate.html
+[sapa-sapa-express]: https://12go.asia/en/station/10345-sa-pa-sapaexpress
+[hanoi-sapa-express]: https://12go.asia/en/station/10342-hanoi-sapaexpress
 [bai-tho-mountain]: https://www.agirlwhoblooms.com/2018/08/03/climbing-bai-tho-peace-mountain-in-halong-bay/
 [saitama-airbnb]: https://www.airbnb.com/trips/v1/84aa13bc-4cfc-4e36-8876-7821dfe1f255
