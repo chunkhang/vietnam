@@ -78,7 +78,8 @@
 | 15:00 | Arrive at Sapa bus station   | [Sapa Express Bus Station (Sapa)][sapa-sapa-express]   |
 | 15:30 | Depart for Hanoi bus station | Bus                                                    |
 | 21:30 | Arrive at Hanoi bus station  | [Sapa Express Bus Station (Hanoi)][hanoi-sapa-express] |
-| 22:00 | Check into hotel             |                                                        |
+| 22:00 | Dinner at Hanoi              |                                                        |
+| 23:00 | Check into hotel             |                                                        |
 
 ### Day 4
 > Dec 21 (Sat)
@@ -86,6 +87,7 @@
 | Time | Event                  | Note |
 |------|------------------------|------|
 |      | Check out from hotel   |      |
+|      | Breakfast at Hanoi     |      |
 |      | Depart for Ha Long Bay | Bus  |
 |      | Arrive at Ha Long Bay  |      |
 |      | Check into hotel       |      |
