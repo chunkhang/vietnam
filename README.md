@@ -33,32 +33,32 @@
 ### Day 1
 > Dec 18 (Wed)
 
-| Time          | Event                                       | Note                                      |
-|---------------|---------------------------------------------|-------------------------------------------|
-| 07:30 - 08:30 | Sunway University - KLIA2                   | Grab                                      |
-| 12:05 - 14:20 | KLIA2 - Noi Bai International Airport       | Airplane; AK 512; Checked baggage 25 kg   |
-| 16:00 - 17:00 | Noi Bai International Airport - Hanoi       | Bus; [Airport to Hanoi][airport-to-hanoi] |
-| 17:30         | Check into Hanoi Zesty Hotel                | [Zesty][zesty]                            |
-| 19:00         | Check out from Hanoi Zesty Hotel            |                                           |
-| 21:30 - (05:30) | Hanoi - Lao Cai | [Train][train-to-sapa]                    |
+| Time            | Event                                 | Note                                      |
+|-----------------|---------------------------------------|-------------------------------------------|
+| 07:30 - 08:30   | Sunway University - KLIA2             | Grab                                      |
+| 12:05 - 14:20   | KLIA2 - Noi Bai International Airport | Airplane; AK 512; Checked baggage 25 kg   |
+| 16:00 - 17:00   | Noi Bai International Airport - Hanoi | Bus; [Airport to Hanoi][airport-to-hanoi] |
+| 17:30           | Check into Hanoi Zesty Hotel          | [Zesty][zesty]                            |
+| 19:00           | Check out from Hanoi Zesty Hotel      |                                           |
+| 21:30 - (05:30) | Hanoi - Lao Cai                       | [Train][train-to-sapa]                    |
 
 ### Day 2
 > Dec 19 (Thu)
 
-| Time          | Event                 | Note                       |
-|---------------|-----------------------|----------------------------|
-| (21:30) - 05:30 | Hanoi - Lao Cai (continued) | |
-| 06:00 - 07:00 | Lao Cai - Sapa        | Taxi or bus to Sapa [Church][church] |
-| ...            | Ger's Valley Homestay | [Ger][ger]                 |
+| Time            | Event                       | Note                                 |
+|-----------------|-----------------------------|--------------------------------------|
+| (21:30) - 05:30 | Hanoi - Lao Cai (continued) |                                      |
+| 06:00 - 07:00   | Lao Cai - Sapa              | Taxi or bus to Sapa [Church][church] |
+| ...             | Ger's Valley Homestay       | [Ger][ger]                           |
 
 ### Day 3
 > Dec 20 (Fri)
 
-| Time          | Event                                | Note                                                                              |
-|---------------|--------------------------------------|-----------------------------------------------------------------------------------|
-| ...             | Ger's Valley Homestay (continued)                |                                                                                   |
-| 15:30 - 21:30 | Sapa - Hanoi | Bus; [Sapa Bus Station][sapa-bus-station]; [Hanoi Bus Station][hanoi-bus-station] |
-| 23:00         | Check into Awa Downtown Hostel       | [Awa][awa]                                                                        |
+| Time          | Event                             | Note                                                                              |
+|---------------|-----------------------------------|-----------------------------------------------------------------------------------|
+| ...           | Ger's Valley Homestay (continued) |                                                                                   |
+| 15:30 - 21:30 | Sapa - Hanoi                      | Bus; [Sapa Bus Station][sapa-bus-station]; [Hanoi Bus Station][hanoi-bus-station] |
+| 23:00         | Check into Awa Downtown Hostel    | [Awa][awa]                                                                        |
 
 ### Day 4
 > Dec 21 (Sat)
@@ -67,14 +67,14 @@
 |---------------|------------------------------------|------------------------|
 | 07:30         | Check out from Awa Downtown Hostel |                        |
 | 08:30 - 11:30 | Hanoi - Ha Long Bay                | Bus provided by cruise |
-| ...             | Serenity Cruise                    | [Serenity][serenity]   |
+| ...           | Serenity Cruise                    | [Serenity][serenity]   |
 
 ### Day 5
 > Dec 22 (Sun)
 
 | Time          | Event                       | Note                   |
 |---------------|-----------------------------|------------------------|
-| ...             | Serenity Cruise (continued)             |                        |
+| ...           | Serenity Cruise (continued) |                        |
 | 12:00 - 15:00 | Ha Long Bay - Hanoi         | Bus provided by cruise |
 | 15:30         | Check into Saitama Homestay | [Saitama][saitama]     |
 
@@ -83,7 +83,7 @@
 
 | Time | Event         | Note |
 |------|---------------|------|
-| ...    | Explore Hanoi |      |
+| ...  | Explore Hanoi |      |
 
 ### Day 7
 > Dec 24 (Tue)
