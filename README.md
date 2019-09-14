@@ -49,7 +49,7 @@
 | 19:30 | Dinner at Hanoi                          |                                           |
 | 20:00 | Depart for Hanoi train station           | Taxi                                      |
 | 20:30 | Arrive at Hanoi train station            |                                           |
-| 21:30 | Depart for Lao Cai train station         | Train                                     |
+| 21:30 | Depart for Lao Cai train station         | [Train][train-to-sapa]                    |
 
 ### Day 2
 > Dec 19 (Thu)
@@ -133,3 +133,4 @@
 [hanoi-sapa-express]: https://12go.asia/en/station/10342-hanoi-sapaexpress
 [bai-tho-mountain]: https://www.agirlwhoblooms.com/2018/08/03/climbing-bai-tho-peace-mountain-in-halong-bay/
 [saitama-airbnb]: https://www.airbnb.com/trips/v1/84aa13bc-4cfc-4e36-8876-7821dfe1f255
+[train-to-sapa]: https://12go.asia/en/train/hanoi/sapa?date=2019-12-18&people=4#!popup//secure.12go.asia:443/en/trip/43160-9279-9292?date=2019-12-18&travel_url=hanoi/sapa&direction=forward&change_date=0&ajax=1         
