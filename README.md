@@ -105,7 +105,7 @@
 | 05:30         | Check out from Saitama Homestay       |                                         |
 | 06:00 - 07:00 | Hanoi - Noi Bai International Airport | Taxi                                    |
 | 09:00 - 13:15 | Noi Bai International Airport - KLIA2 | Airplane; AK 517; Checked baggage 25 kg |
-| 14:00         | KLIA2 - Sunway University             | Grab                                    |
+| 14:00 - 15:00 | KLIA2 - Sunway University             | Grab                                    |
 
 [splitwise]: https://secure.splitwise.com/#/groups/13052688
 [zesty]: https://www.agoda.com/hanoi-zesty-hotel/hotel/hanoi-vn.html
