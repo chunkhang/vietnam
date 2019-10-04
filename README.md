@@ -40,7 +40,7 @@
 | 16:00 - 17:00   | Noi Bai International Airport - Hanoi | Bus                                     |
 | 17:30           | Check into Hanoi Zesty Hotel          | [Zesty][zesty]                          |
 | 19:00           | Check out from Hanoi Zesty Hotel      |                                         |
-| 22:00 - (06:05) | Hanoi - Lao Cai                       | [Train][sapaly-express]                 |
+| 22:00 - (06:05) | Hanoi - Lao Cai                       | Train; [Sapaly][sapaly-express]         |
 
 ---
 
