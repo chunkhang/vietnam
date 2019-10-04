@@ -40,7 +40,7 @@
 | 16:00 - 17:00   | Noi Bai International Airport - Hanoi | Bus                                     |
 | 17:30           | Check into Hanoi Zesty Hotel          | [Zesty][zesty]                          |
 | 19:00           | Check out from Hanoi Zesty Hotel      |                                         |
-| 21:30 - (05:30) | Hanoi - Lao Cai                       | [Train][train-to-sapa]                  |
+| 22:00 - (06:05) | Hanoi - Lao Cai                       | [Train][sapaly-express]                 |
 
 ---
 
@@ -49,7 +49,7 @@
 
 | Time            | Event                       | Note                       |
 |-----------------|-----------------------------|----------------------------|
-| (21:30) - 05:30 | Hanoi - Lao Cai (continued) |                            |
+| (22:00) - 06:05 | Hanoi - Lao Cai (continued) |                            |
 | 06:00 - 07:00   | Lao Cai - Sapa              | Bus; [Sapa Church][church] |
 | ...             | Ger's Valley Homestay       | [Ger][ger]                 |
 
@@ -109,7 +109,7 @@
 
 [splitwise]: https://secure.splitwise.com/#/groups/13052688
 [zesty]: https://www.agoda.com/hanoi-zesty-hotel/hotel/hanoi-vn.html
-[train-to-sapa]: https://12go.asia/en/train/hanoi/sapa?date=2019-12-18&people=4#!popup//secure.12go.asia:443/en/trip/43160-9279-9292?date=2019-12-18&travel_url=hanoi/sapa&direction=forward&change_date=0&ajax=1
+[sapaly-express]: https://12go.asia/en/operator/sapaly-express
 [church]: https://www.indochinaodysseytours.com/vietnam/sapa/attractions-sapa-church.html
 [ger]: https://www.facebook.com/SapaHomestay/
 [sapa-bus-station]: https://12go.asia/en/station/10345-sa-pa-sapaexpress
