@@ -91,9 +91,9 @@
 ### Day 6
 #### Dec 23 (Mon)
 
-| Time | Event         | Note |
-|------|---------------|------|
-| ...  | Explore Hanoi |      |
+| Time | Event                  | Note |
+|------|------------------------|------|
+| ...  | Free and easy in Hanoi |      |
 
 ---
 
