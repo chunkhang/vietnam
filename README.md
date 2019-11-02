@@ -8,13 +8,13 @@
   - [Date](#date)
   - [Finance](#finance)
 - [Itinerary](#itinerary)
-  - [Day 1](#day-1)
-  - [Day 2](#day-2)
-  - [Day 3](#day-3)
-  - [Day 4](#day-4)
-  - [Day 5](#day-5)
-  - [Day 6](#day-6)
-  - [Day 7](#day-7)
+  - [Day 1 - Dec 18](#day-1)
+  - [Day 2 - Dec 19](#day-2)
+  - [Day 3 - Dec 20](#day-3)
+  - [Day 4 - Dec 21](#day-4)
+  - [Day 5 - Dec 22](#day-5)
+  - [Day 6 - Dec 23](#day-6)
+  - [Day 7 - Dec 24](#day-7)
 
 ## Details
 
