@@ -73,18 +73,18 @@
 |---------------|------------------------------------|-------------------------|
 | 07:30         | Check out from Awa Downtown Hostel |                         |
 | 08:30 - 11:30 | Hanoi - Ha Long Bay                | Bus; Provided by cruise |
-| ...           | Serenity Cruise                    | [Serenity][serenity]    |
+| ...           | Oriental Sails Cruise              | [Oriental][oriental]    |
 
 ---
 
 ### Day 5
 #### Dec 22 (Sun)
 
-| Time          | Event                       | Note                    |
-|---------------|-----------------------------|-------------------------|
-| ...           | Serenity Cruise (continued) |                         |
-| 12:00 - 15:00 | Ha Long Bay - Hanoi         | Bus; Provided by cruise |
-| 15:30         | Check into Saitama Homestay | [Saitama][saitama]      |
+| Time          | Event                             | Note                    |
+|---------------|-----------------------------------|-------------------------|
+| ...           | Oriental Sails Cruise (continued) |                         |
+| 12:00 - 15:00 | Ha Long Bay - Hanoi               | Bus; Provided by cruise |
+| 15:30         | Check into Saitama Homestay       | [Saitama][saitama]      |
 
 ---
 
@@ -114,6 +114,6 @@
 [ger]: https://www.facebook.com/SapaHomestay/
 [sapa-bus-station]: https://12go.asia/en/station/10345-sa-pa-sapaexpress
 [hanoi-bus-station]: https://12go.asia/en/station/10342-hanoi-sapaexpress
-[serenity]: https://catbaexpress.com/serenity-cruises-2-days-tour.html
+[oriental]: https://www.halongbaytours.com/cruise/oriental-sails/2-day-1-night.html
 [saitama]: https://www.airbnb.com/rooms/26503593
 [awa]: https://www.airbnb.com/rooms/27688599
