@@ -72,7 +72,7 @@
 | Time          | Event                              | Note                    |
 |---------------|------------------------------------|-------------------------|
 | 07:30         | Check out from Awa Downtown Hostel |                         |
-| 08:30 - 11:30 | Hanoi - Ha Long Bay                | Bus; Provided by cruise |
+| 08:00 - 11:00 | Hanoi - Ha Long Bay                | Bus; Provided by cruise |
 | ...           | Oriental Sails Cruise              | [Oriental][oriental]    |
 
 ---
